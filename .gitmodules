@@ -1,0 +1,3 @@
+[submodule "ThirdParty/emmcdl"]
+	path = ThirdParty/emmcdl
+	url = https://github.com/nijel8/emmcdl.git
